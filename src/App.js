@@ -51,5 +51,3 @@ useEffect(()=>{
 }
 
 export default App;
-
-/// in this project i leran the map function usestate 
